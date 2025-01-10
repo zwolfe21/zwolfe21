@@ -1,8 +1,6 @@
-I'm a new coder looking to learn Python, Rust, C/C++ and possibly Go. Working on learning these languages and publish a portfiolo looking to go professional in time.
-The current repo in my profile is a modified chart script from Python's matlibplot that is my attempt to mimic Wolfram Mathematica's sleek chart style. 
-Visit the repo's wiki page for more details at https://github.com/zwolfe21/wolfestyle_python_matplotlib.
+I am revamping this page for case studies and project portfolio for data analysis, please check back later.
 
-If you reached this page via zwolfe.com, I used to run a blog however I decided this was not needed. I kept the domain and forwarded you here :) More projects to come!
+If you reached this page via zwolfe.com, I used to run a website however I decided that was not needed. I kept the domain and forwarded you here :) More projects to come!
 
 <!---
 zwolfe21/zwolfe21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
